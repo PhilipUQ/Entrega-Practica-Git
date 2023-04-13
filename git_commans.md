@@ -18,4 +18,4 @@ git commit: Este comando se usa para confirmar los cambios de la zona de prepara
 
 git push: Este comando se usa para enviar los cambios confirmados desde la rama local hasta el repositorio remoto
 
-git merge: Este comando se usa para combinar los ambios de diferentes ramas, se toma los cambios de una y se aplican a otra creando un nuevo commit
+git merge: Este comando se usa para combinar los ambios de diferentes ramas, se toma los cambios de una y se aplican a otra creando un nuevo commitgit
